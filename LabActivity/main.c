@@ -12,6 +12,7 @@ int main(void) {
    printf("   o o   \n");
    printf("  =   = \n");
    printf("   ---   ");
+   printf(" \n ");
 
 
    /* Type your code here. */
